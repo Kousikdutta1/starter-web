@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kousik Dutta -- kdutta926@gmail.com -- @kdutta
 
 # THANKS
 
