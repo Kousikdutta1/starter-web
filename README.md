@@ -16,6 +16,8 @@ This is a simople web project , deployment can be on any web server or even loca
 
 ## How To Contribute
 
+Please fork this repository and then issue pull request
+
 ### Copyright
 
 2025.Git.Training
